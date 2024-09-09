@@ -1,0 +1,21 @@
+ServiceNow is a comprehensive platform designed to streamline IT service management through task and ticket management, data integration, and reporting. It offers a user-friendly interface with key features like Global Search, Connect Chat, and Application Navigator. The platform also supports extensive customization and automation through tools like Access Control Lists (ACLs), UI policies, Business Rules, and Client Scripting. Branding tools enable corporate identity customization, while the List View interface simplifies list operations.
+
+ServiceNow’s data integration involves creating DataSource records and using Import Sets for data transformation. Task management covers Incident, Problem, and Change Request management with features like task assignment rules and visual task boards. The platform’s robust reporting tools help users create, manage, and share reports effectively, supporting data-driven decision-making.
+
+ServiceNow also embraces Low Code/No Code development, enabling simplified software development, which bridges the gap between business and IT during digital transformation efforts.
+
+Learning Objectives: Upon completing the module, learners will be able to:
+
+Define ServiceNow and explain its role in IT service management.
+Identify core components and architecture.
+Describe how ServiceNow services are deployed and utilized.
+Navigate and master ServiceNow user interfaces.
+Handle data imports, integrations, and report management.
+Understand the platform's data model for reporting.
+Create, manage, and share reports.
+Discuss the importance of data visualization in decision-making.
+Customize the platform using branding tools for corporate identity.
+Apply corporate branding using Company Guided Setup and UI Builder.
+Define Low Code/No Code development and its impact on digital transformation.
+Evaluate the pros and cons of Low Code/No Code approaches.
+Identify career opportunities in Low Code/No Code development.
